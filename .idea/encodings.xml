@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/electric/MainApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/model/sql/DatabaseHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/model/sql/extended.sql" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/electric/model/sql/extended2.sql" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/electric/model/sql/init.sql" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/CountryOverviewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/ManufacturerEditDialogController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/ManufacturerOverviewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/RecordOverviewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/TransformerEditDialogController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/TransformerOverviewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/VoltageRelayEditDialogController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/electric/view/VoltageRelayOverviewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/DatabaseTests.java" charset="UTF-8" />
+  </component>
+</project>
